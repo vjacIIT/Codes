@@ -15,7 +15,6 @@ long int fibo(int n)
 int main()
 {
   int n;  
-
   printf("Fibbonacci Number\n");
   scanf("%d",&n);
   printf("%ld\n", fibo(n));
