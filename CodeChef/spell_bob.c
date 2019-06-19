@@ -6,7 +6,6 @@ int main()
 		int i, j, k, tc, w, flag, b, o;
 	 	char str1[5], str2[5];
 		char com_str[5];
-		//printf("%s %s %s\n",stringa,stringb,stringc);
 		scanf("%d", &tc);
 
 		while(tc--)
