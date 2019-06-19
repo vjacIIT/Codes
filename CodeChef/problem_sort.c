@@ -49,7 +49,6 @@ int main()
 			(val_ind + i)->val = n;
 			(val_ind + i)->ind = i;
 	}
-
 	qsort(val_ind, pbs, sizeof(struct value_index), comp2);
 	
 	for(int i=0; i<pbs; i++)
