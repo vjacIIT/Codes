@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 long int flag=0;		// stores the number of elements one vertex can reach
-long int h =0;	// helper for the actual size of the array
+long int h =0;			// helper for the actual size of the array
 
 typedef struct node
 {
