@@ -8,7 +8,6 @@ int main()
      {
        pr[i]=1;
      }
- 
 
      for(i=0; i<=100000; i++)
      {
@@ -17,7 +16,6 @@ int main()
               count[i][j]=1;
           }
      }
-
 
      for(i=1; i<100000; i++)
      {   pf=0; pa[i]=pf;
