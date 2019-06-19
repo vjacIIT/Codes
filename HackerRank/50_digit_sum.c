@@ -49,7 +49,6 @@ int main()
          printf("%d\t", ar[i]);  
       }
   
-  
       printf("\n\n");
  
      for(i=0; i<5; i++)
