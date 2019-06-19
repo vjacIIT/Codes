@@ -5,8 +5,7 @@ int main()
 {
 	int N, X, S, val1, val2, tc;
 	scanf("%d", &tc);
-	while(tc--)
-	{
+	while(tc--){
 		scanf("%d%d%d", &N, &X, &S);
 		while(S--)
 		{
