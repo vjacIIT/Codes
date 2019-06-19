@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 long long int power(int a, int b)
 {
 		long long int no = 1;
