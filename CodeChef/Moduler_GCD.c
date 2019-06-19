@@ -129,7 +129,6 @@ int main()
 				printf("%lld\n",hcf); 
 		}
 		
-	}
-			
+	}		
 	return 0;
 }
