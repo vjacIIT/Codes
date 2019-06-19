@@ -34,7 +34,6 @@ int main()
    {
      scanf("%ld", &n);
 
- 
      for(k=1; ithval[k]<=n; k++);
           
           printf("%ld\n", ithval[k-1]);
