@@ -71,9 +71,7 @@
                printf("Thousand ");
           }          
      }                    
- 
    printf("\n");
-  
   }
    
   return 0;
