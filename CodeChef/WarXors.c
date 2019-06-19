@@ -67,8 +67,7 @@ int main()
 				flag=0;
 			}
 		}
-		if(flag==1)
-			n1=n1-(fr*(fr-1))/2;	
+		if(flag==1)	n1=n1-(fr*(fr-1))/2;	
 		fr=0;
 		flag=0;
 		for(int i=0; i<od-1; i++)
