@@ -11,7 +11,6 @@ int main()
 		scanf("%lld%lld%lld%lld", &N, &M, &X, &Y);
 		N=(N-1);
 		M=(M-1);
-		//printf("N=%lld  M=%lld", N, M);
 		if(X==1)
 		{
 			if(M%Y==0)
