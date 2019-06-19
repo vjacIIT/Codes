@@ -74,7 +74,6 @@ while tc > 0:
                     ar1[i] = ar1[i] % (A-B)
                     ar2[i] *= ar2[i]
                     ar2[i] = ar2[i] % (A-B)
-
             else:
                 ar1[i] = 1
                 ar2[i] = 1
