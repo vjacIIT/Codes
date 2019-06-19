@@ -25,12 +25,12 @@ int main()
 		el1=1; 
 		el21=1;
 		el22=1;		
-		while(el21<n)  // it is always smaller or equal to our n
+		while(el21<n)  		// it is always smaller or equal to our n
 			el21*=2;
 
 		el21/=2;
 
-		while(el22<n)	// it is always bigger or equal to our n		
+		while(el22<n)		// it is always bigger or equal to our n		
 			el22*=2;
 
 
