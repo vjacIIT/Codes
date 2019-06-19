@@ -125,7 +125,7 @@ void displayList(graph* gr, int vtc)
 	for(int i=1; i<vtc; i++)
 	{
 		head = (gr->head)[i];
-		if(head!=NULL)
+		if(head!=NULL)		// Goes till the end of linked list
 		{
 			printf("%d->", i);
 			while(head->link!=NULL)
