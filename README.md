@@ -4,5 +4,7 @@ Contains solutions to underlined problems of CP3
 This folder has Data Structures, Sorting and some DP problems 
 # Codechef
 Solutions to some practice and monthly challenge problems
+# Codeforces
+It contains practise problems only
 # HackerRank
 Most solutions are from Project Euler and algorithms
