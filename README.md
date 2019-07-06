@@ -1,5 +1,5 @@
 # Cp3
-Contains solutions to underlined problems of CP3
+Contains solutions to starred problems of CP3
 # Categories
 This folder has Data Structures, Sorting and some DP problems 
 # Codechef
