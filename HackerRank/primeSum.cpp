@@ -3,10 +3,10 @@
 #include<iostream>
 using namespace std;
 
-bool is_prime(long int n){
+bool is_prime(long long int n){
     if(n<=3)    return n>1;
     else if(n%2==0 || n%3==0)    return false;
-    long int i=5;
+    long long int i=5;
     while(i*i<=n){
         if(n%i==0 || n%(i+2)==0)    return false;	// 3 numbers are checked here, rest 3 are checked due to divisibility by 2 and 3
         i=i+6;				// therefore directly add 6
@@ -16,7 +16,7 @@ bool is_prime(long int n){
 
 int main(){
     bool p;
-    long int n,k;
+    long long int n,k;
     int tc;
     scanf("%d",&tc);
     while(tc--){
